@@ -1,15 +1,3 @@
-try{
-
-
-
-$Paths = 'C:\Program Files', 'C:\Program Files (x86)'
-
-
-
-Foreach ($Path in $Paths) {
-
-
-
 #!/usr/bin/python3
 
 import socket
